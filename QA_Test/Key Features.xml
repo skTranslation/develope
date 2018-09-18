@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<content connectType="Zendesk" sourceType="Article" sourceName="Key Features" sourceId="115004929585" previewURL="https://translationscom.zendesk.com/hc/en-us/articles/115004929585-Key-Features">
+    <field id="115004929585" name="title" translate="true" maxLength="0" metadata="false"><![CDATA[Key Features]]></field>
+    <field id="115004929585" name="body" translate="true" maxLength="0" metadata="false"><![CDATA[<ul>
+<li>Multi-tenant Saas portal to translate content in cloud systems</li>
+<li>Plugin architecture with the ability to build additional custom plugins.</li>
+<li>API to persist context submitted from the adaptor </li>
+<li>Ability to add a edit button inside each integration which opens our bi-lingual + preview page</li>
+<li>Simple Business reports without Tableau</li>
+<li>Scope approval  - review analysis report of job without starting  </li>
+<li>Translation status / health of a particular campaign</li>
+<li>Reports to see how much content is translated, what is in progress and what yet needs to be submitted.</li>
+</ul>
+<p> </p>
+<p>WYSIWYG translation editor</p>
+<ul>
+<li>Static HTML DOM will be captured using a proxy or a plugin</li>
+<li>References to CSS, JS and images will be swapped out to files on the PREVIEW server</li>
+<li>At the time of preview, API will get the static HTML and translated segments JSON as input.
+<ul>
+<li>Parse static DOM using AP.</li>
+<li>Seed translated DIV within that DOM with a highlighted background.</li>
+<li>On click of div, open the div for editing using Create.js. A right panel can show source and target text for more context.</li>
+<li>Save edited DIV in JSON and submit the updated JSON to TM and Connector</li>
+</ul>
+</li>
+</ul>
+<p> </p>]]></field>
+</content>

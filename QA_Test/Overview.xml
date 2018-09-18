@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<content connectType="Zendesk" sourceType="Section" sourceName="Overview" sourceId="115001383229" previewURL="https://translationscom.zendesk.com/hc/en-us/sections/115001383229-Overview">
+    <field id="115001383229" name="title" translate="true" maxLength="0" metadata="false"><![CDATA[Overview]]></field>
+    <field id="115001383229" name="body" translate="true" maxLength="0" metadata="false"><![CDATA[This section will provide you brief Overview of Globallink Connect]]></field>
+</content>
