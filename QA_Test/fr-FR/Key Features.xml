@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<content connectType="Zendesk" sourceType="Article" sourceName="Key Features" sourceId="115004929585" previewURL="https://translationscom.zendesk.com/hc/en-us/articles/115004929585-Key-Features">
+    <field id="115004929585" name="title" translate="true" maxLength="0" metadata="false"><![CDATA[Key Features]]></field>
+    <field id="115004929585" name="body" translate="true" maxLength="0" metadata="false"><![CDATA[<ul>
+<li>Mùýltíì-tèënàânt Sàâàâs pöôrtàâl töô tràânslàâtèë cöôntèënt íìn clöôùýd systèëms</li>
+<li>Plûýgìîn àárchìîtëèctûýrëè wìîth thëè àábìîlìîty tòò bûýìîld àáddìîtìîòònàál cûýstòòm plûýgìîns.</li>
+<li>ÄPÎ tóö péèrsïíst cóöntéèxt sýûbmïíttéèd fróöm théè äâdäâptóör </li>
+<li>Æbîïlîïty tóö ââdd ââ èêdîït bûúttóön îïnsîïdèê èêââch îïntèêgrââtîïóön whîïch óöpèêns óöûúr bîï-lîïngûúââl + prèêvîïèêw pââgèê</li>
+<li>Sïìmplëë Bùùsïìnëëss rëëpóòrts wïìthóòùùt Tæâblëëæâùù</li>
+<li>Scöõpéê äãppröõväãl  - réêvììéêw äãnäãlysììs réêpöõrt öõf jöõb wììthöõùût stäãrtììng  </li>
+<li>Trãánslãátìíõòn stãátüús / hëëãálth õòf ãá pãártìícüúlãár cãámpãáìígn</li>
+<li>Rêêpöörts töö sêêêê hööw múüch cööntêênt íìs tråænslåætêêd, whåæt íìs íìn pröögrêêss åænd whåæt yêêt nêêêêds töö bêê súübmíìttêêd.</li>
+</ul>
+<p> </p>
+<p>WYSÎWYG tráãnsláãtïîóön êèdïîtóör</p>
+<ul>
+<li>Stäætìïc HTML DÒM wìïll bèé cäæptýûrèéd ýûsìïng äæ prõóxy õór äæ plýûgìïn</li>
+<li>Rééféérééncéés tõõ CSS, JS åând îîmåâgéés wîîll béé swåâppééd õõùút tõõ fîîléés õõn théé PRÊVÎÊW séérvéér</li>
+<li>Ât théé tîîméé óõf préévîîééw, ÂPÎ wîîll géét théé stããtîîc HTML ããnd trããnslããtééd séégméénts JSÓN ããs îînpúút.
+<ul>
+<li>Pâærséé stâætîîc DÖM úúsîîng ÃP.</li>
+<li>Sèêèêd träànsläàtèêd DÏV wíïthíïn thäàt DÕM wíïth äà híïghlíïghtèêd bäàckgròóúúnd.</li>
+<li>Òn clïìck ôóf dïìv, ôópèén thèé dïìv fôór èédïìtïìng ùúsïìng Crèéàátèé.js. Å rïíght pàänêêl càän shóôw sóôýýrcêê àänd tàärgêêt têêxt fóôr móôrêê cóôntêêxt.</li>
+<li>Sãàvêé êédíïtêéd DÎV íïn JSÒN ãànd sûúbmíït thêé ûúpdãàtêéd JSÒN tôò TM ãànd Côònnêéctôòr</li>
+</ul>
+</li>
+</ul>
+<p> </p>]]></field>
+</content>
