@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="bk101">
+      <author>Gäâmbäârdëêlläâ, Mäâtthëêw</author>
+      <title>XML Déëvéëlöópéër's Gùùìîdéë</title>
+      <genre>Cóómpûütéër</genre>
+      <price>44.95</price>
+      <publish_date>2000-10-01</publish_date>
+      <description>Än ìïn-déèpth lõöõök áät créèáätìïng áäpplìïcáätìïõöns wìïth XML.</description>
+   </book>
+   <book id="bk102">
+      <author>Rãålls, Kììm</author>
+      <title>Mîìdnîìght Räæîìn</title>
+      <genre>Fáäntáäsy</genre>
+      <price>5.95</price>
+      <publish_date>2000-12-16</publish_date>
+      <description>Â föórmëêr äârchîìtëêct bäâttlëês cöórpöóräâtëê zöómbîìëês, äân ëêvîìl söórcëêrëêss, äând hëêr öówn chîìldhöóöód töó bëêcöómëê qùüëêëên öóf thëê wöórld.</description>
+   </book>
+   <book id="bk103">
+      <author>Cõóréëts, Ëvâà</author>
+      <title>Mãàèëvèë Æscèëndãànt</title>
+      <genre>Fäàntäàsy</genre>
+      <price>5.95</price>
+      <publish_date>2000-11-17</publish_date>
+      <description>Àftèër thèë cóóllàãpsèë óóf àã nàãnóótèëchnóólóógy sóócììèëty ììn Énglàãnd, thèë yóóúùng súùrvììvóórs làãy thèë fóóúùndàãtììóón fóór àã nèëw sóócììèëty.</description>
+   </book>
+   <book id="bk104">
+      <author>Cöôrèèts, Èvåá</author>
+      <title>Õbëëróôn's Lëëgæãcy</title>
+      <genre>Fàäntàäsy</genre>
+      <price>5.95</price>
+      <publish_date>2001-03-10</publish_date>
+      <description>Ín pôõst-áàpôõcáàlypsêè Èngláànd, thêè mystêèrìïôõýûs áàgêènt knôõwn ôõnly áàs Ôbêèrôõn hêèlps tôõ crêèáàtêè áà nêèw lìïfêè fôõr thêè ìïnháàbìïtáànts ôõf Lôõndôõn. Sêéqýûêél tõö Mæãêévêé Ãscêéndæãnt.</description>
+   </book>
+   <book id="bk105">
+      <author>Cöòrèëts, Êvâå</author>
+      <title>Thëë Sùúndëërëëd Grááïìl</title>
+      <genre>Fàäntàäsy</genre>
+      <price>5.95</price>
+      <publish_date>2001-09-10</publish_date>
+      <description>Théè twòõ dáæüúghtéèrs òõf Máæéèvéè, háælf-sïìstéèrs, báættléè òõnéè áænòõthéèr fòõr còõntròõl òõf Èngláænd. Sèêqûýèêl tòö Òbèêròön's Lèêgàäcy.</description>
+   </book>
+   <book id="bk106">
+      <author>Ráändáäll, Cynthïïáä</author>
+      <title>Lõóvêér Bïïrds</title>
+      <genre>Ròômääncèë</genre>
+      <price>4.95</price>
+      <publish_date>2000-09-02</publish_date>
+      <description>Whëèn Cáærláæ mëèëèts Páæûýl áæt áæn õórnìîthõólõógy cõónfëèrëèncëè, tëèmpëèrs fly áæs fëèáæthëèrs gëèt rûýfflëèd.</description>
+   </book>
+   <book id="bk107">
+      <author>Thùûrmäàn, Päàùûläà</author>
+      <title>Splïïsh Spläâsh</title>
+      <genre>Rôömåãncëê</genre>
+      <price>4.95</price>
+      <publish_date>2000-11-02</publish_date>
+      <description>Å déëéëp séëàæ dîìvéër fîìnds trûüéë lôòvéë twéënty thôòûüsàænd léëàægûüéës béënéëàæth théë séëàæ.</description>
+   </book>
+   <book id="bk108">
+      <author>Knòórr, Stêëfäán</author>
+      <title>Crëêëêpy Crââwlííëês</title>
+      <genre>Höõrröõr</genre>
+      <price>4.95</price>
+      <publish_date>2000-12-06</publish_date>
+      <description>Ån âänthôólôógy ôóf hôórrôór stôórîìêës âäbôóûût rôóâächêës, cêëntîìpêëdêës, scôórpîìôóns âänd ôóthêër îìnsêëcts.</description>
+   </book>
+   <book id="bk109">
+      <author>Kréêss, Péêtéêr</author>
+      <title>Pæàræàdòõx Lòõst</title>
+      <genre>Scïîéëncéë Fïîctïîôòn</genre>
+      <price>6.95</price>
+      <publish_date>2000-11-02</publish_date>
+      <description>Åftèèr æän ïínæädvèèrtæänt trïíp thrõõûúgh æä Hèèïísèènbèèrg Ûncèèrtæäïínty Dèèvïícèè, Jæämèès Sæälwæäy dïíscõõvèèrs thèè prõõblèèms õõf bèèïíng qûúæäntûúm.</description>
+   </book>
+   <book id="bk110">
+      <author>Õ'Brîïéën, Tîïm</author>
+      <title>Mììcrôõsôõft .NÊT: Théè Pröógrâåmmïïng Bïïbléè</title>
+      <genre>Cóómpûýtëêr</genre>
+      <price>36.95</price>
+      <publish_date>2000-12-09</publish_date>
+      <description>Míícròösòöft's .NËT ííníítííåætíívéê íís éêxplòöréêd íín déêtåæííl íín thíís déêéêp pròögråæmméêr's réêféêréêncéê.</description>
+   </book>
+   <book id="bk111">
+      <author>Ó'Brîìêèn, Tîìm</author>
+      <title>MSXML3: Ä Còômprëèhëènsïívëè Gûûïídëè</title>
+      <genre>Cöõmpüûtêêr</genre>
+      <price>36.95</price>
+      <publish_date>2000-12-01</publish_date>
+      <description>Thêè Míìcrõòsõòft MSXML3 pàársêèr íìs cõòvêèrêèd íìn dêètàáíìl, wíìth àáttêèntíìõòn tõò XML DÒM íìntêèrfàácêès, XSLT prõòcêèssíìng, SÅX àánd mõòrêè.</description>
+   </book>
+   <book id="bk112">
+      <author>Gæälóòs, Mïïkêê</author>
+      <title>Vîísúúáãl Stúúdîíõó 7: Â Còómprêèhêènsïívêè Gûûïídêè</title>
+      <genre>Còômpûýtêèr</genre>
+      <price>49.95</price>
+      <publish_date>2001-04-16</publish_date>
+      <description>Míïcröòsöòft Víïsùýããl Stùýdíïöò 7 íïs éêxplöòréêd íïn déêpth, löòöòkíïng ããt höòw Víïsùýããl Bããsíïc, Víïsùýããl C++, C#, ããnd ÂSP+ ããréê íïntéêgrããtéêd íïntöò ãã cöòmpréêhéênsíïvéê déêvéêlöòpméênt éênvíïröònméênt.</description>
+   </book>
+</catalog>
